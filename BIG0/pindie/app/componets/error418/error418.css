@@ -1,0 +1,9 @@
+.error-button {
+    background-color: #f06;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
